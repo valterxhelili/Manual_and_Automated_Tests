@@ -6,14 +6,14 @@ describe("Create a mark and unmark as favorite", () => {
     cy.visit("https://react-redux.realworld.io/#/login?_k=muyhl2");
     cy.title().should("eq", "Conduit");
     cy.location("protocol").should("eq", "https:");
-    cy.get('input[type="email"]').type('valter.xhelili@yahoo.com')
-    cy.get('input[type="password"]').type('natanael')
+    cy.get('input[type="email"]').type('admin@yahoo.com')
+    cy.get('input[type="password"]').type('admin')
     cy.get('.btn').contains('Sign in').should('be.visible').click()
 
     cy.get("form").within(($form) => {
       // cy.get() will only search for elements within form, not within document
-      cy.get('input[type = "email"').type("valter.xhelili@yahoo.com");
-      cy.get('input[type = "password"]').type("natanael");
+      cy.get('input[type = "email"').type("admin@yahoo.com");
+      cy.get('input[type = "password"]').type("admin");
       cy.root().submit(); //submit the form yealded from 'within'
     });
 
