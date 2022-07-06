@@ -9,3 +9,4 @@
 - Technology and innovation are my passion 
 - I love this saying °Software testers help programmers be heroes° - Unknown 
 - My Languages and Tools - HTML, CSS, JavaScript, Visual Studio Code, Cypress
+- email: valter.xhelili@yahoo.com
