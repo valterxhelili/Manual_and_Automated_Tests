@@ -7,5 +7,5 @@
 - I enjoy furthering my knowledge of softwater testing 
 - I love automation testing with Cypress as an end-to-end framework for automated web test
 - Technology and innovation are my passion 
-- I love this saying °software testers help programmers be heroes° - Unknown 
+- I love this saying °Software testers help programmers be heroes° - Unknown 
 - My Languages and Tools - HTML, CSS, JavaScript, Visual Studio Code, Cypress
