@@ -9,4 +9,5 @@
 - Technology and innovation are my passion 
 - I love this saying °Software testers help programmers be heroes° - Unknown 
 - My Languages and Tools - HTML, CSS, JavaScript, Visual Studio Code, Cypress
+- With skills to perform: UX Testing, Web Testing, E2E Testing, Usability Testing, Functional Testing, Manual Testing, Automated Testing, Test Design, Test Execution,    Bug Tracking, Bug Reporting, etc.
 - email: valter.xhelili@yahoo.com
